@@ -14,6 +14,14 @@
 다양한 기술을 탐구하고 실제 프로젝트에 적용하며 <b>문제 해결 능력</b>을 키우고 있습니다.
 </p>
 
+<p>────────────────────────────────</p>
+
+<p>
+I'm growing toward becoming a <b>backend developer</b>, focusing on <b>Java, Spring Boot, and Python</b>.<br/>
+I build projects that solve real-life problems with <b>AI, data</b>, and web/server technologies.<br/>
+I keep exploring new technologies and applying them to real projects to sharpen my <b>problem-solving skills</b>.
+</p>
+
 <p>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</p>
 
 <h3>🛠️ Tech Stack</h3>
@@ -60,6 +68,7 @@
 
 <h4>Learning Now</h4>
 <p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
