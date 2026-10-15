@@ -14,7 +14,7 @@
 다양한 기술을 탐구하고 실제 프로젝트에 적용하며 <b>문제 해결 능력</b>을 키우고 있습니다.
 </p>
 
-<p>────────────────────────────────</p>
+<p><sub>────────────────────────────────────────────────────────────</sub></p>
 
 <p>
 I'm growing toward becoming a <b>backend developer</b>, focusing on <b>Java, Spring Boot, and Python</b>.<br/>
